@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Makina/static/css/main.b5b498ab.css",
+    "main.js": "/Makina/static/js/main.c6153ba9.js",
+    "static/js/787.fade2e9e.chunk.js": "/Makina/static/js/787.fade2e9e.chunk.js",
+    "index.html": "/Makina/index.html",
+    "main.b5b498ab.css.map": "/Makina/static/css/main.b5b498ab.css.map",
+    "main.c6153ba9.js.map": "/Makina/static/js/main.c6153ba9.js.map",
+    "787.fade2e9e.chunk.js.map": "/Makina/static/js/787.fade2e9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5b498ab.css",
+    "static/js/main.c6153ba9.js"
+  ]
+}
